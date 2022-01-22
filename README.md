@@ -18,3 +18,7 @@ Initial hardware is designed and ready to go to PCB manufacturing.
 Assuming others join the project for writing software I will order some prototype PCBs and distribute.
 
 If you see the hardware design needs changes or things which would make it more usable please post in discussions.
+
+# FAQ
+
+Why not using SMD components?  Fair question.  I choose through-hole only for the prototype hardware phase.  Assuming development matures and software is written then hardware can be easily updated to SMD.  All the current components are available in SMD versions.  SMD could potentially could reduce PCB size dramatically but until we are sure the hardware is functioning 100% it is much easier to update PCB with through-hole components than SMD
