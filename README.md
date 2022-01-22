@@ -22,3 +22,5 @@ If you see the hardware design needs changes or things which would make it more 
 # FAQ
 
 Why not using SMD components?  Fair question.  I choose through-hole only for the prototype hardware phase.  Assuming development matures and software is written then hardware can be easily updated to SMD.  All the current components are available in SMD versions.  SMD could potentially could reduce PCB size dramatically but until we are sure the hardware is functioning 100% it is much easier to update PCB with through-hole components than SMD
+
+How much do the PCBs cost?  No cost for people willing to write software.  Assuming sufficient interest to proceed with the project I will order PCBs and ship one to you for your build.  The board construction is simple enough most any hobbyist should be able to build it and the parts are commonly available.  If for some reason you cannot build your own please contact me to make arrangements for a pre-built board
