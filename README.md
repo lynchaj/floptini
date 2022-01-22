@@ -10,3 +10,9 @@ If you want to join up then you can post in the discussions on this repo or cont
 There is a thread on retrobrewcomputers.org forum discussing the topic of USB to FDC devices
 
 https://www.retrobrewcomputers.org/forum/index.php?t=msg&th=212&start=0&
+
+Initial hardware is designed and ready to go to PCB manufacturing.  
+
+Assuming others join the project for writing software I will order some prototype PCBs and distribute.
+
+If you see the hardware design needs changes or things which would make it more usable please post in discussions.
