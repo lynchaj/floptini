@@ -1,7 +1,9 @@
 # floptini
 Open Source USB to Floppy Drive Controller for Retrobrewcomputers &amp; hobbyists
 
-Help Wanted: PC and PIC18F software writers to write code for prototype USB to FDC module
+Help Wanted: PC and PIC18F software writers to write code for prototype USB to FDC module.  
+
+Note: there is no software for this project right now so if you plan to help with software expect to start at the beginning.  PIC18F experience would be beneficial
 
 My intent is for this to be an ad-hoc team project with members having various specialities like software, firmware, hardware, disk formats, etc.
 
