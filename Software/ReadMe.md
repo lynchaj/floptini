@@ -1,3 +1,3 @@
 # floptini software folder
 
-This folder is for floptini software such as PC driver, PIC18F4550 firmware, etc.
+This folder is for floptini software such as PC driver, STM32F4 firmware, etc.
