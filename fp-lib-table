@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name MCUdev)(type KiCad)(uri ${KIPRJMOD}/MCUdev.pretty)(options "")(descr ""))
-)
