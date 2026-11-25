@@ -26,3 +26,5 @@ Why using only through-hole components?  Fair question.  I choose through-hole o
 How much do the PCBs cost?  No cost for people willing to write software.  Assuming sufficient interest to proceed with the project I will order PCBs and ship one to you for your build.  The board construction is simple enough most any hobbyist should be able to build it and the parts are commonly available.  If for some reason you cannot build your own please contact me to make arrangements for a pre-built board.
 
 Note: the initial project was designed using an older version of KiCAD so using the project requires some conversion to newer KiCAD standards and formats.  Not a showstopper but some work required.
+
+Note: this project sort of drifted off into the weeds.  If you are interested in adopting Floptini and doing your own build and test, please do and post your results.  There is a long standing retrocomputer community need for a general purpose USB to floppy interface (Shugart Minidisk Floppy 34-pin) rather than those cheap USB to 3.5" floppy drives that are only good for 1.44MB formatted IBM HD disks.  Floppy disks forever!
